@@ -59,6 +59,7 @@ def search():
         brute(password)
         
     
+
 #welcome in salah kabeel tools
 def welcome():
         wel = """
@@ -81,7 +82,6 @@ def welcome():
         print " [*] Cracking, please wait ...\n\n"
         
 
-
 if __name__ == '__main__':
-        main()
+        main()        
         
