@@ -1,0 +1,6 @@
+apt update
+apt upgrade 
+pkg install python 
+https://github.com/salahkabeel524/Facebook-cracker.git
+cd facebook-cracker 
+ls
